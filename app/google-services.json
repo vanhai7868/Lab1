@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60781336144",
+    "project_id": "hainvph36038",
+    "storage_bucket": "hainvph36038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60781336144:android:f46564a23a8f96a8e46355",
+        "android_client_info": {
+          "package_name": "com.hainvph36038.myapp123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4uZp0ANdcmpNxppyWNZ1pVBccXB4MX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
